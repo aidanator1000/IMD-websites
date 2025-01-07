@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+ /*this is known as a selector. it allows you to edit the style of containers by defining said field and selecting the desired styles in the contents*/
+p {
+    color: #00bbffa1;
+    /*you can click these squares to open the colour picker, and click the clicker header to switch colour mode*/
+}
+
+h1  {
+    color: #00aeff;
+    font-family: cursive;
+}
